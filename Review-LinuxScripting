@@ -1,0 +1,8 @@
+This course comprised of six lectures and went over the basics of linux scripting in bash. 
+The first lecture taught how to use nano a text editor to edit files and changing the access of files using chmod command leading us to write our first shell script.
+The second lecture went over some basic commands like cd, pwd, echo, cat and showing us how to run a script. Therfore builtin commands of terminal were dicussed.
+The third lecture discusses the use of variables and comments in scripts. Variables are defined using $ and comments using #.
+The fourth lecture dicusses the use of comments in long, complex scripts and how to use them to explain the working of the script Essentially using them to write psuedo code.
+The fifth lecture which is also the last main lecture introduces us to if else commands in scripting and the concept of builting shell variables.
+Finally we get to the bonus lecture which gives additional resources to continue are linux scripting journey.
+

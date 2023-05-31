@@ -1,0 +1,10 @@
+The given one hour course starts off with installation of python. We are later introduced to print command and our taught to write a basic hello world program.
+The course continues with variable declaration, type conversion, strings, operators, logical operators and operator precedence.
+All the above concepts are discussed in the first half of the course and lays the ground work for the upcoming complex part of writing actual programs.
+If statements are introduced which are important for any programming language and when the if-else is dicussed at length, we are introduced to an exercise.
+The exercise involves a basic weight conversion program which uses all the above concepts which were discussed before. The program takes user input in kilos and converts into pounds.
+Later on loops are discussed starting with while loop and their utility is demonstrated with pattern creation using ascii symbols.
+Data strcutures are discussed next starting with lists and operation over lists, how to add and delete elements is gone over in brief
+We revert back to loops leading us to for loops which are similar to while but serve in different use cases.
+Data structures are continued with tuples after discussing range function in brief for the for loop. 
+With this the course in concluded.

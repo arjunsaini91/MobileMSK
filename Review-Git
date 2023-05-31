@@ -1,0 +1,8 @@
+This course acts like an introduction to git version control system and goes over it in 7 sections. The Sections are comprised of Introduction, Installation, Basic git workflow with github, Conclusion, Updates and errata, Alternatives ways of starting a repository and Special offers.
+The course starts with the basic concepts of version control system git and what commands like add, commit and push do and what are their significance.
+Installation on different operating systems is covered in the second section
+All the commands required are discussed at length in the third section which also the most important and largest section of the course containing the main curriculum.
+Fourth section is just a minute long conclusion reviewing the course and subsequent sections are bonus sections.
+The first bonus sections dabbles with macosx updates.
+The second bonus section covered creating a new repository locally and making an existing project a repository.
+The third bonus section discussed student discounts for similar courses to this course like ios11, git for geeks etc.
